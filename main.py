@@ -5,7 +5,7 @@ def login(x=0):
         while True:
             username = input("Enter your username: ")
             password = input("Enter your password: ")
-            if username == "TechItAll949" and password == "TSC_INCORP":
+            if username == "idk" and password == "idk":
                 return True
             else:
                 print("Invalid username or password. Please try again.")
